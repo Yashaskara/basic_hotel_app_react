@@ -1,0 +1,21 @@
+{
+  "name": "react_swiggy",
+  "version": "1.0.0",
+  "description": "Swiggy like food delivery app",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Yash Jois",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  }
+}

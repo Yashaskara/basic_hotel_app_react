@@ -1,0 +1,24 @@
+.hotel-card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 400px;
+    background-color: #f0f0f0;
+    
+}
+
+.hotel-card-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.hotel-card-other-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}

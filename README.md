@@ -1,4 +1,4 @@
-# React Hotel Project
+# Food Delivery React App
 
 This is a basic React application bundled with Parcel.
 
